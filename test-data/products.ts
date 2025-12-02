@@ -1,0 +1,5 @@
+export const addproducts = [
+'Sauce Labs Backpack',
+'Sauce Labs Bike Light',
+'Sauce Labs Bolt T-Shirt'
+]

@@ -1,0 +1,10 @@
+LM-web-testdata
+test-results
+playwright-report
+node_modules
+tests/tests/LM-Switchboard
+tests/LM-web
+package-lock.json
+.DS_Store
+
+
