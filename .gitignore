@@ -6,5 +6,7 @@ tests/tests/LM-Switchboard
 tests/LM-web
 package-lock.json
 .DS_Store
+test-json-report.json
+state.json
 
 
