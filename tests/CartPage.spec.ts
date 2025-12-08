@@ -103,4 +103,7 @@ test('Remove product from the cart page', async ({page}) => {
     
 });
 
+
+
+
   });
